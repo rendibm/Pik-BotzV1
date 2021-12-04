@@ -16,29 +16,29 @@ const defaultMenu = {
 ✶╰━╦──────➛
 ︻𝒜𝓃⃢𝑜⃢𝓃⃢𝓎⃢𝓂⃢𝑜⃢𝓊⃢𝓈⃢⟧ཌ๏•••••••••••••ะ๏ຼົะ
 ┰── %me ─┄➤ ⎠↶×͜×↷*
-⃝〲𐄪 *Tersisa* _%limit Limit_
-⃝〲𐄪 *Role* _%role_
-⃝〲𐄪 *Level* _%level (%exp / %maxexp)_
-⃝〲𐄪 _[%xp4levelup]_
-⃝〲𐄪 _%totalexp_ *XP secara Total*
+⃝〲↳ *Tersisa* _%limit Limit_
+⃝〲↳ *Role* _%role_
+⃝〲↳ *Level* _%level (%exp / %maxexp)_
+⃝〲↳ _[%xp4levelup]_
+⃝〲↳ _%totalexp_ *XP secara Total*
 ∴┃ 
-⃝〲𐄪 *Hari* : _%week %weton_ 
-⃝〲𐄪 *Tanggal* : _%date_
-⃝〲𐄪 *Tanggal Islam* : 
-⃝〲𐄪 _%dateIslamic_
-⃝〲𐄪 *Waktu* : _%time_
+⃝〲↳ *Hari* : _%week %weton_ 
+⃝〲↳ *Tanggal* : _%date_
+⃝〲↳ *Tanggal Islam* : 
+⃝〲↳ _%dateIslamic_
+⃝〲↳ *Waktu* : _%time_
 ∴┃
-⃝〲𐄪 Chat Owner ✉️
-⃝〲𐄪 klo mw add bot ke grup ☺ !
-⃝〲𐄪 *Uptime* : _%uptime (%muptime)_
-⃝〲𐄪 *Database* : _%rtotalreg dari %totalreg_
-⃝〲𐄪 *Github* : 
+⃝〲↳ Chat Owner ✉️
+⃝〲↳ klo mw add bot ke grup 😉 !
+⃝〲↳ *Uptime* : _%uptime (%muptime)_
+⃝〲↳ *Database* : _%rtotalreg dari %totalreg_
+⃝〲↳ *Github* : 
 ∴┃   bit.ly/githubkyura
-⃝〲𐄪 *Youtube* : 
+⃝〲↳ *Youtube* : 
 ∴┃   bit.ly/youtubekyura
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━➽╤─｢*%category*｣──➛',
-  body: '〲𐄪 %cmd %islimit %isPremium',
+  body: '〲↳ %cmd %islimit %isPremium',
   footer: '╰━➽╤───➛\n',
   after: `
 *KyuraBot*
@@ -273,7 +273,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Menu Berita",
                   "rowId": ".? News"
                 },  {
-                  "title": "[⚒] Game",
+                  "title": "[🕹️] Game",
                   "description": "Menu Game",
                   "rowId": ".? game"
                 }, {
