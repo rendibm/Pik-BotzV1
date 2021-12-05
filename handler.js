@@ -569,16 +569,16 @@ Untuk mematikan fitur ini, ketik
 global.dfail = (type, m, conn) => {
 	let name = conn.getName(m.sender)
   let msg = {
-    rowner: 'ettoo..fitur itu cuma buat owner kak',
-    owner: 'ettoo..fitur itu cuma buat owner kak',
-    mods: 'ano..hanya moderator bot yang boleh,,',
-    premium: 'ummm...kalau kamu premium baru boleh kak',
-    group: 'annoo..fitur ini cuma bisa berfungsi di grup',
-    private: 'ettooo,,fitur itu hanya boleh di chat pribadi kak',
-    admin: 'ehh,,anoo kamu member, hanya admin yg boleh memakai fitur itu',
-    botAdmin: 'etoo..jadiin aku admin dulu, baru bisa memakai fitur tersebut',
-    unreg: 'anoo..kamu belum mendaftar/ndaftar dulu yaa, caranya ketik .daftar kanao.16',
-    nsfw: 'bagaimana pun juga, tetep ga boleh hentai! baka !'
+    rowner: 'woee..fitur itu cuma buat owner kak',
+    owner: 'woee..fitur itu cuma buat owner kak',
+    mods: 'woee..hanya moderator bot yang boleh,,',
+    premium: 'hmm...kalau kamu premium baru boleh kak',
+    group: 'woee..fitur ini cuma bisa berfungsi di grup',
+    private: 'woee,,fitur itu hanya boleh di chat pribadi kak',
+    admin: 'ehh,,kamu member, hanya admin yg boleh memakai fitur itu',
+    botAdmin: 'woee..jadiin aku admin dulu, baru bisa memakai fitur tersebut',
+    unreg: 'woy..kamu belum mendaftar/ndaftar dulu yaa, caranya ketik .daftar kanao.16',
+    nsfw: 'bagaimana pun juga, tetep ga boleh bokep! Bgst !'
   }[type]
   if (msg) return m.reply(msg)
 }
