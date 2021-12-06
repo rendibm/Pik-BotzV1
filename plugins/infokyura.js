@@ -3,23 +3,23 @@ conn.reply(m.chat, `
 會⸦⸧︻︻︻︻︻︻︻︻︻︻⸦⸧會
 ⦕ *Informasi Owner* ⦖
 會⸦⸧︼︼︼︼︼︼︼︼︼︼⸦⸧會
-⎛ ✎ Nama : Taufiqurrohman/oᵖ ͥͥ ᷜᷜ
+⎛ ۞⃝ Nama : Taufiqurrohman/oᵖ ͥͥ ᷜᷜ
 ▏    Kelas : X-MIPA 5,SMA 1 Lmd
 ▏    Umur : 15
 ▏    Asal : Majalengka 
 ▏    Status : Sibuk.
 ▏    Suka : Kamu, Coding (dikit), Sejarah
-▏ ✎ _Official Grup_ :
+▏ ۞⃝ _Official Grup_ :
 ▏    bit.ly/Groupkhusus
-▏ ✎ _Instagram_ :
+▏ ۞⃝ _Instagram_ :
 ▏    -
-▏ ✎ _YouTube_ : 
+▏ ۞⃝ _YouTube_ : 
 ▏    bit.ly/YouTubeopik
-▏ ✎ _FaceBook_ :
+▏ ۞⃝ _FaceBook_ :
 ▏    bit.ly/Facebookopik
-▏ ✎ _WhatsApp_ :
+▏ ۞⃝ _WhatsApp_ :
 ▏    bit.ly/WhatsAppopik
-⎝‿‿‿‿‿‿‿‿
+⎝◞°°°°°°°°𖤓⃝
 `.trim(), m)
 }
 
