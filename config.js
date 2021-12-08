@@ -18,7 +18,7 @@ global.linkGC = ['bit.ly/officialgrupkanaobot'] // ganti jadi group lu
 global.owner = ['6283822205585'] // Put your number here //owner eval
 global.kontak = ['6283822205585'] //Ketika ada yang ngetik #owner
 global.mods = ['6283822205585'] // Want some help?
-global.prems = ['6283822205585'] // Premium user has unlimited limit
+global.prems = ['6281917973505'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
