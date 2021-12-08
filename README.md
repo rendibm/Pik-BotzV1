@@ -1,3 +1,4 @@
+https://camo.githubusercontent.com/227a9b4f6b8a588cfab18320f60dc378f09526f4564c9a6f967ed52e7936cd2c/68747470733a2f2f67696666696c65732e616c706861636f646572732e636f6d2f3132302f3132303234382e676966
 <h1 align="center">TaufiqGans <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
 Simple Rpg WhatsApp Bot Pik-bot
