@@ -207,7 +207,7 @@ module.exports = {
         } else global.db.data.chats[m.chat] = {
           isBanned: false,
           welcome: false,
-          detect: false,
+          detect: true,
           sWelcome: '',
           sBye: '',
           sPromote: '',
