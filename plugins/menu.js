@@ -35,13 +35,13 @@ const defaultMenu = {
 ⃝〲↳ *Github* : 
 ∴┃   bit.ly/githubkyura
 ⃝〲↳ *Youtube* : 
-∴┃   bit.ly/youtubekyura
+∴┃   bit.ly/YouTubeopik
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━➽╤─｢*%category*｣──➛',
   body: '〲↳ %cmd %islimit %isPremium',
   footer: '╰━➽╤───➛\n',
   after: `
-*KyuraBot*
+*PikBot*
 _Recode Oleh : Taufiq_
 _SourceCode Ori By Nurutomo_
 `,
