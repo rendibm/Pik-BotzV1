@@ -10,7 +10,7 @@ const defaultMenu = {
   before: `
 ╠╣ᵃⁱ ᵔᴥᵔ
 ««ะ๏ຼົะ──卐.︽။⸽༒⸽။︽.卐──ะ๏ຼົะ»»
-«⦕卐⸽︼⸽︻❳❲«PikBotz[2]»❳❲︻⸽︼⸽卐⦖»
+«⦕卐⸽︼⸽︻❳❲«*PikBotz[1]*»❳❲︻⸽︼⸽卐⦖»
 ⸙卐⸽︻⸽︻⸽︻⸽︼❳❲«»❳❲︼⸽︻⸽︻⸽︻⸽卐⸙
 ✶╭┳ Hai, *%name!*✪➽╤───➛
 ✶╰━╦──────➛
@@ -33,7 +33,7 @@ const defaultMenu = {
 ⃝〲↳ *Uptime* : _%uptime (%muptime)_
 ⃝〲↳ *Database* : _%rtotalreg dari %totalreg_
 ⃝〲↳ *Github* : 
-∴┃   bit.ly/githubkyura
+∴┃  taufiqgans.github.io/pik-botzv1
 ⃝〲↳ *Youtube* : 
 ∴┃   bit.ly/YouTubeopik
 ∴╰┄━━━━┄➤`.trimStart(),
@@ -187,7 +187,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
     let names = m.fromMe ? conn.user : conn.contacts[who]
     let pushname = `${names.vnmae || names.notify || names.names || ('+' + names.jid.split`@`[0])}`
-    let pushn = 'Daftar Dulu ya kak supaya namanya muncul disini'
+    let pushn = 'Daftar Dulu ya kak ×͜×'
     let name = registered ? global.db.data.users[m.sender].name : pushn
     let d = new Date(new Date + 3600000)
     let locale = 'id'
@@ -257,7 +257,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
             {
               "rows": [
                 {
-                  "title": `[圓] Semua Perintah`,
+                  "title": `[∞] Semua Perintah`,
                   "description": "Memberikan Semua Fitur Bot",
                   "rowId": ".? all"
                 }, {
@@ -273,7 +273,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                   "description": "Menu Berita",
                   "rowId": ".? News"
                 },  {
-                  "title": "[🕹️] Game",
+                  "title": "[🎲] Game",
                   "description": "Menu Game",
                   "rowId": ".? game"
                 }, {
