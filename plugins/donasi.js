@@ -3,7 +3,8 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fet
 ╭─˗ˏˋ*Donasi • Emoney - Pulsa* ´ˎ˗
 │ ✎ PULSA : 083822205585
 │ ✎ Dana/Ovo/Gopay : 083822205585
-│ ✎ Bila Perlu hubungi owner 
+│ ✎ Bila Perlu hubungi owner⤵
+│ ➥ http://bit.ly/WhatsAppopik
 ╰‿‿‿‿‿‿‿‿‿‿‿‿‿‿
 `.trim(), footer, 'Owner', '.owner')
 handler.help = ['donasi']
