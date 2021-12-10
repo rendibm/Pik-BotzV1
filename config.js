@@ -15,10 +15,10 @@ gc1 = 'bit.ly/officialgrupkanaobot'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['bit.ly/officialgrupkanaobot'] // ganti jadi group lu
-global.owner = ['6283822205585'] // Put your number here //owner eval
-global.kontak = ['6283822205585'] //Ketika ada yang ngetik #owner
-global.mods = ['6283822205585'] // Want some help?
-global.prems = ['6281917973505','6285664221805'] // Premium user has unlimited limit
+global.owner = ['6282119009798'] // Put your number here //owner eval
+global.kontak = ['6282119009798'] //Ketika ada yang ngetik #owner
+global.mods = ['6282119009798'] // Want some help?
+global.prems = ['6281917973505','6285664221805','6283822205585'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -44,24 +44,24 @@ global.APIKeys = { // APIKey Here
 lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
-//xteam     PIKBOTZ
+//xteam     OndokBot
 namaig = 'bit.ly/instagramkyura'
 namagithub = 'bit.ly/githubkyura'
 kasihcaption = `Nihh...`
-namakontak1 = 'Taufiq'
-namakontak2 = 'Opik'
+namakontak1 = 'Ondok'
+namakontak2 = 'Rendi'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'Taufiq' // ganti aja
-global.author = 'PikBotz' // ganti aja
+global.packname = 'Ondok' // ganti aja
+global.author = 'OndokBot' // ganti aja
 
 //yyy
-bc = 'PikBotz' //TFQ Broadcast
-footer = '\n©Taufiq'
-namabot = 'PikBotz'
-namalu = 'OPIK'
+bc = 'OndokBot' //TFQ Broadcast
+footer = '\n©Rendi'
+namabot = 'OndokBot'
+namalu = 'Rendi'
 
 
 // 
