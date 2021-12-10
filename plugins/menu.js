@@ -10,7 +10,7 @@ const defaultMenu = {
   before: `
 ╠╣ᵃⁱ ᵔᴥᵔ
 ««ะ๏ຼົะ──卐.︽။⸽༒⸽။︽.卐──ะ๏ຼົะ»»
-«⦕卐⸽︼⸽︻❳❲«*PikBotz[1]*»❳❲︻⸽︼⸽卐⦖»
+«⦕卐⸽︼⸽︻❳❲«*OndokBot*»❳❲︻⸽︼⸽卐⦖»
 ⸙卐⸽︻⸽︻⸽︻⸽︼❳❲«»❳❲︼⸽︻⸽︻⸽︻⸽卐⸙
 ✶╭┳ Hai, *%name!*✪➽╤───➛
 ✶╰━╦──────➛
@@ -42,8 +42,8 @@ const defaultMenu = {
   footer: '╰━➽╤───➛\n',
   after: `
 *PikBot*
-_Recode Oleh : Taufiq_
-_SourceCode Ori By Nurutomo_
+_Recode Oleh : Rendi_
+_SourceCode Ori By Taufiq_
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
